@@ -12,7 +12,7 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 
 /**
- * Created by Administrator on 2016/12/28.
+ * Created by Administrator on 2016/12/28.wx
  */
 @WebServlet("/hello")
 public class HelloServlet extends HttpServlet{
